@@ -1,5 +1,5 @@
 # A Comparative Sentiment Analysis of Twitter Activity by Trump and Biden 
-When Joe Biden became the president-elect of the United States, it was interesting to see, how the Twitter activity of the Biden and Donald Trump compared. Could we see indications that Biden would live up to his “pledge to be a president who seeks not to divide, but to unify” ?
+When Joe Biden became the president-elect of the United States, it was interesting to see, how the Twitter activity of Joe Biden and Donald Trump compared. Would we be able to see indications that Biden would live up to his “pledge to be a president who seeks not to divide, but to unify” ?
 
 To answer this question, this analysis [PDF](https://github.com/philippolis/TrumpBidenTweetSentiment/blob/main/Report.pdf) combined a natural language processing-enabled sentiment analysis with a more in-depth topical analysis of both the Twitter activity of Trump and Biden. The data for this was downloaded from the Twitter API on 03/12/2020 and covers tweets made by Biden and Trump between the 23/11 and 02/12 (GMT-5), excluding retweets. The number of tweets is for Biden n=44 and for Trump n=93.
 
